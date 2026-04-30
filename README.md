@@ -6,7 +6,7 @@
 * [snifflies2](https://github.com/rwj0621/Sniffles2)
 * [SAVANA](https://github.com/rwj0621/savana)
 ### 2.二代工具列表
-* [Manta]()
+* [Manta](https://github.com/rwj0621/Manta)
 * [GRIDSS]()
 ## 二、与金标准对比
 * 工具 [Truvari](https://github.com/rwj0621/Truvari)
